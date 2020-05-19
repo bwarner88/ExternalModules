@@ -1,5 +1,0 @@
-# ignore vscode files
-.vscode
-
-# ignore npm
-/node_modules    
